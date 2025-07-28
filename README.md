@@ -94,11 +94,6 @@ Achieved an accuracy of **90%** using Logistic Regression.
 
 ---
 
-## 🧑‍💻 Author
-
-* **Jayesh RL**
-* [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/jayesh-rl-748059291/)) 
-* [GitHub]([https://github.com/your-username](https://github.com/Aspect022))
 
 ---
 
